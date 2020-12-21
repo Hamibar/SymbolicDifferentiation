@@ -1,0 +1,6 @@
+.vs
+DifferentiatorTests/bin
+DifferentiatorTests/obj
+TestResults
+SymbolicDifferentiation/bin
+SymbolicDifferentiation/obj

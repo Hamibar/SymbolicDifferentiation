@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SymbolicDifferentiation", "SymbolicDifferentiation\SymbolicDifferentiation.csproj", "{7277C8FA-C572-4352-99A4-878436570AA5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DifferentiatorTests", "DifferentiatorTests\DifferentiatorTests.csproj", "{E695E821-C286-48C7-AC32-B58BCADB36F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7277C8FA-C572-4352-99A4-878436570AA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7277C8FA-C572-4352-99A4-878436570AA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7277C8FA-C572-4352-99A4-878436570AA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7277C8FA-C572-4352-99A4-878436570AA5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E695E821-C286-48C7-AC32-B58BCADB36F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E695E821-C286-48C7-AC32-B58BCADB36F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E695E821-C286-48C7-AC32-B58BCADB36F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E695E821-C286-48C7-AC32-B58BCADB36F0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9A7A1507-DFB9-4282-8C2E-90AA77E80278}
+	EndGlobalSection
+EndGlobal
